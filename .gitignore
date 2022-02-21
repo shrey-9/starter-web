@@ -1,1 +1,4 @@
 ls
+log/
+*.txt.bak
+*.bak
