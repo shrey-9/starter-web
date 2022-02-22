@@ -10,3 +10,8 @@
 ##Deployment
 
 ##How to contribute
+
+
+###Copyright
+
+2014
